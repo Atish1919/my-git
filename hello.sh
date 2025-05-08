@@ -1,2 +1,2 @@
 #!/bin/bash
-ech "hello, Atish-v7"
+echo "hello, Atish-v8"
