@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello, Atish-v8"
+sudo useradd Aj
