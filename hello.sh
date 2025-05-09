@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo useradd Aj
+sudo useradd Rutuj
